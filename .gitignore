@@ -1,0 +1,7 @@
+# Directories
+/thunder-tests
+/node_modules
+
+# Files
+package-lock.json
+postgres-pool.js
